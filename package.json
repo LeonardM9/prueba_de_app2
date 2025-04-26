@@ -1,0 +1,15 @@
+
+{
+  "name": "db-connection-checker",
+  "version": "1.0.0",
+  "description": "Prueba de conexión a MySQL y PostgreSQL en Azure",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.5.2",
+    "pg": "^8.11.1"
+  }
+}
